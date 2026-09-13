@@ -1,0 +1,24 @@
+:root {
+  --color-bg: #f4f7f6;
+  --color-ink: #1c2422;
+  --color-ink-muted: #5b6b66;
+  --color-border: #dce6e3;
+  --color-surface: #ffffff;
+  --color-surface-2: #eef4f2;
+  --color-accent: #0f9d8e;
+  --color-confidence-high: #12b886;
+  --color-confidence-medium: #c9a227;
+  --color-confidence-low: #c4472b;
+  --font-heading: var(--font-heading-loaded), "Roboto Slab", ui-serif, Georgia, serif;
+  --font-mono: var(--font-mono-loaded), "IBM Plex Mono", ui-monospace, monospace;
+  --font-body: var(--font-body-loaded), "Inter", system-ui, sans-serif;
+  --radius: 8px;
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 16px;
+  --space-4: 24px;
+  --space-5: 40px;
+  --header-height: 56px;
+  --commit-bar-height: 64px;
+  --sidebar-width: 220px;
+}

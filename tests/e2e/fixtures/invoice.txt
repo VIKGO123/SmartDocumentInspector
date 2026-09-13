@@ -1,0 +1,8 @@
+INVOICE
+Vendor: Acme Corp
+Bill to Jane Doe
+Email: billing@acme.com
+Invoice date: 03/14/2026
+Subtotal: $1,200.00
+Total due: $1,400.00
+Phone: 415-555-0199
