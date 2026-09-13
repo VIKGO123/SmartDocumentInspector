@@ -3,8 +3,7 @@
 > **Project:** Smart Document Builder (Smart Document Inspector)  
 > **Repository:** [https://github.com/VIKGO123/SmartDocumentInspector](https://github.com/VIKGO123/SmartDocumentInspector)  
 > **Live Deployed App:** [https://smartdocumentinspector.vercel.app/](https://smartdocumentinspector.vercel.app/)  
-> **Problem Statement:** Turn messy documents into structured, queryable data.  
-> **Role:** Senior Software Architect  
+> **Problem Statement:** Turn messy documents into structured, queryable data.
 
 ---
 
